@@ -9,6 +9,7 @@ retrotastic for removed full trust (recommended for non devs) to begin your inst
 subscribe for more content have a great day
 </textarea> 
             <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank">MY YOUTUBE</a>
+			<embed name="Music" src="music.mp3" width="0" height="0" loop="true" autostart="true">
          </p>
     </BODY>
 </HTML>
