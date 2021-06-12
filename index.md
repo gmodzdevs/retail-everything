@@ -2,8 +2,7 @@
     <BODY>
          <p>
             <a href="ms-windows-store://pdp/?productid=9PFW202HSTJ5">gtest300175</a>
-             <a href="ms-windows-store://pdp/?productid=9PFW202HSTJ5">retrotastic NOT READY YET</a>
-            
+             
              <textarea readonly id="bio" name="gmodz" rows="12" cols="50" style="background-color:#99FFFF" style="resize: none">
 sup everyone my name is gmodz hacks on youtube today im sharing RetroArch signed for Retail Xbox One click the gtest300175 for test full trust version or 
 retrotastic for removed full trust (recommended for non devs) to begin your installation and please 
