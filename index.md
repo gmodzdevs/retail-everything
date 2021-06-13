@@ -1,7 +1,7 @@
 <HTML>
     <BODY>
          <p>
-            <a href="ms-windows-store://pdp/?productid=9PFW202HSTJ5">gtest300175</a>
+            <a href="ms-windows-store://pdp/?productid=9PFW202HSTJ5" target="_blank1">gtest300175</a>
 	    <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank">Background Music</a> 
 			<h1>
 				sup everyone my name is gmodz hacks on youtube today im sharing 
