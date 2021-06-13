@@ -6,7 +6,8 @@
 			<h1>
 				sup everyone my name is gmodz hacks on youtube today im sharing 
 				RetroArch signed for Retail Xbox One click the gtest300175 to begin your installation and please 
-				subscribe for more content have a great day... Songs used 5 AMAZINGLY EPIC COPYRIGHT FREE 80s Synth Tracks
+				subscribe for more content have a great day... keep browser open for 20 minutes of synthwave
+				(Xbox Must Close Browser To Stop The Background Music)
 			 </h1>
 			<embed name="Music" src="music.mp3" width="0" height="0" loop="false" autostart="true">
          </p>
