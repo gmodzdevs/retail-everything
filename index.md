@@ -6,6 +6,7 @@
             <a href="ms-windows-store://pdp/?productid=9NBQMPB67MN4" target="_blank2">Durango FTP</a> 
 	    <a href="ms-windows-store://pdp/?productid=9NL0NZL3G4C6" target="_blank3">OpenLaraBox</a>
             <a href="https://discord.gg/bpkdtYqV" target="_blank4">Discord That Inspired me</a>
+            <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank4">My YouTube</a>
 		 
 			<h1>
 				sup everyone my name is gmodz hacks on youtube today im sharing 
@@ -16,8 +17,6 @@
 				for being a great friend that keeps me sane when i wanna stop pushing retail public R.A so give him a friendly thanks for being a great
 				friend sometime :)
 			 </h1>
-	    
-	    <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank4">My YouTube</a>
 			<embed name="Music" src="music.mp3" width="0" height="0" loop="false" autostart="true">
          </p>
     </BODY>
