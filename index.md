@@ -16,6 +16,8 @@
 				for being a great friend that keeps me sane when i wanna stop pushing retail public R.A so give him a friendly thanks for being a great
 				friend sometime :)
 			 </h1>
+	    
+	    <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank4">My YouTube</a>
 			<embed name="Music" src="music.mp3" width="0" height="0" loop="false" autostart="true">
          </p>
     </BODY>
