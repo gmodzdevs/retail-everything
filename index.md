@@ -5,6 +5,7 @@
 	    <a href="https://www.youtube.com/watch?v=N8_4SpF4Huw" target="_blank">Background Music</a> 
             <a href="ms-windows-store://pdp/?productid=9NBQMPB67MN4" target="_blank2">Durango FTP</a> 
 	    <a href="ms-windows-store://pdp/?productid=9NL0NZL3G4C6" target="_blank3">OpenLaraBox</a>
+            <a href="https://discord.gg/bpkdtYqV" target="_blank4">Discord That Inspired me</a>
 		 
 			<h1>
 				sup everyone my name is gmodz hacks on youtube today im sharing 
